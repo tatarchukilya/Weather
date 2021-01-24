@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--text-->
+    <dimen name="textTitle">20sp</dimen>
+    <dimen name="textPrimary">16sp</dimen>
+    <dimen name="textSecondary">14sp</dimen>
+    <!--margin-->
+    <dimen name="marginStandard">16dp</dimen>
+    <dimen name="marginSmall">8dp</dimen>
+
+    <!--other-->
+    <dimen name="bottomNavigationHeight">56dp</dimen>
+    
+    <!--radius-->
+    <dimen name="corner">5dp</dimen>
+</resources>
